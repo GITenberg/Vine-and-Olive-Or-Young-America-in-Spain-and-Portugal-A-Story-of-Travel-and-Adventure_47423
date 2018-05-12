@@ -1,4 +1,8 @@
 _repo: Vine-and-Olive-Or-Young-America-in-Spain-and-Portugal-A-Story-of-Travel-and-Adventure_47423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47423-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47423#Vine-and-Olive-Or-Young-America-in-Spain-and-Portugal-A-Story-of-Travel-and-Adventure
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
